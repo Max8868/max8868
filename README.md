@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="http://i.imgur.com/50NA7vr.gif" width="400" />
-  <img align="center" src="http://i.imgur.com/50NA7vr.gif" alt="pagseguro_logo" height="30" /> 
+<div align="center">
+<a href="https://pagseguro.uol.com.br/" target="_blank" rel="noreferrer"> <img align="center" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="pagseguro_logo" height="200" /> </a>
 </div>
 <br>
 <div id="badges" align="center">
