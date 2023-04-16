@@ -34,7 +34,7 @@ I also work on creating content and mentoring new devs at Iteris.
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="android" width="40" height="40" /> </a>
+    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="ios_apple" width="40" height="40" /> </a>
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> </a>    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
@@ -77,7 +77,7 @@ I also work on creating content and mentoring new devs at Iteris.
 </p>
 <br>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=max8868&" alt="max8868" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=max8868&" alt="max8868" /> 
 </p>
 
 </div>
