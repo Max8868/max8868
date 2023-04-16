@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="http://i.imgur.com/50NA7vr.gif" width="400" />
-  <img align="center" src="http://i.imgur.com/50NA7vr.gif" alt="pagseguro_logo" height="30" /> 
+  <img src="./50NA7vr.gif" width="500" />
 </div>
 <br>
 <div id="badges" align="center">
