@@ -17,7 +17,7 @@
 <h1 align="center">Hi 👋, I'm Taciano</h1>
 <h3 align="center">iOS developer</h3>
 
-- 🔭 I’m currently working on <a href="www.iteris.com.br" target="_blank" rel="noreferrer"> <img align="center" src="https://www.iteris.com.br/wp-content/themes/iteris/svg/logo.svg" alt="iteris_logo" height="30" /> </a> at <a href="https://pagseguro.uol.com.br/" target="_blank" rel="noreferrer"> <img align="center" src="https://assets.pagseguro.com.br/ps-website-assets/v15.112.1/ps-bootstrap/img/logos/pagbank/pagbank-logo-animado-footer@3x.gif" alt="pagseguro_logo" height="30" /> </a>
+- 🔭 I’m currently working at <a href="https://pagseguro.uol.com.br/" target="_blank" rel="noreferrer"> <img align="center" src="https://assets.pagseguro.com.br/ps-website-assets/v15.112.1/ps-bootstrap/img/logos/pagbank/pagbank-logo-animado-footer@3x.gif" alt="pagseguro_logo" height="30" /> </a>
 
 - Co-founder and ex partiner <a href="https://livoapp.com.br/" target="_blank" rel="noreferrer"> <img align="center" src="https://play-lh.googleusercontent.com/QC6fDH-oiAR0ITx1ZxKB_-b8lcgj1vU_R9RSUR7MXYjU7VA23Bq01JrhTOYnjlzzKDE=w480-h960-rw" alt="LivoAPP" height="30"/> </a>
 
